@@ -1,6 +1,5 @@
 package fr.afpa.brive.cda.api.controller;
 
-import fr.afpa.brive.cda.api.controller.PersonController;
 import fr.afpa.brive.cda.api.service.PersonService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
